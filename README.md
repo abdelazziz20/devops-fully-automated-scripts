@@ -1,2 +1,1 @@
-# devops-fully-automated-scripts
-my-scripts
+# devops-fully-automated-1-scripts
